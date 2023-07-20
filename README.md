@@ -1,3 +1,6 @@
+![DesertedEarlyAnnelida-size_restricted](https://github.com/Aranel9966/Aranel9966/assets/97527641/4c0eb3d4-781c-4fd1-9648-29f155bc57c7)
+
+
 <h1 align="center">
 Hi there, I'm Angelo Di re  👋
 </h3>
@@ -5,10 +8,6 @@ Hi there, I'm Angelo Di re  👋
 <h2 align="center">
 I'm a Junior Full-Stack Web Developer 💻
 </h2>
-
-<div align="center">
-![giphy](https://github.com/Aranel9966/Aranel9966/assets/97527641/94ca236e-2110-4254-a6fa-1f3d076b1f8c)
-</div>
 
 ## 💼 Technical Skills
 ### 💥 Code 
@@ -34,3 +33,6 @@ I'm a Junior Full-Stack Web Developer 💻
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat=powershell&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+
+![giphy](https://github.com/Aranel9966/Aranel9966/assets/97527641/94ca236e-2110-4254-a6fa-1f3d076b1f8c)
