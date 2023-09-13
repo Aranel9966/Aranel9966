@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-Hi there, I'm Angelo Di re  👋
+Hi there, I'm Angelo Di Re  👋
 </h3>
 
 <h2 align="center">
